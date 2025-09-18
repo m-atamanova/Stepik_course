@@ -1,0 +1,7 @@
+end1 = input()
+a = input()
+b = input()
+c = input()
+print(a, end=end1)
+print(b, end=end1)
+print(c, end='')
